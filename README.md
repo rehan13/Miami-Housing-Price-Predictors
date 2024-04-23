@@ -1,4 +1,4 @@
-# STAT 301 Final Project: Impact of House Characteristics on Sale Price in Miami
+# Impact of House Characteristics on Sale Price in Miami
 
 ## Overview
 This project investigates the impact of various house characteristics such as size, location, age, and special features on the assessed value of houses in Miami. Utilizing the Miami Housing Dataset from Kaggle, the project applies inferential statistical methods to explore which factors are most influential in determining house prices in a competitive market.

@@ -5,6 +5,8 @@ This project investigates the impact of various house characteristics such as si
 
 ## Project Authors
 - Rehan Mondal
+- Abhinav Kansal
+- Utsav Singh
 
 ## Dataset
 The data for this project is sourced from the Miami Housing Dataset available on Kaggle. It includes details on 13,932 single-family houses sold in Miami, covering aspects like land area, floor area, proximity to key locations, age of the house, and more.
